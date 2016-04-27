@@ -1,6 +1,7 @@
-.idea
-.idea/
+
+.idea/*
 .DS_Store
+.idea
 tmp
 spm_modules
 node_modules
